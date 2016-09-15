@@ -5,15 +5,8 @@ Contributors: please follow the recommendations outlined at [keepachangelog.com]
 
 ## [Unreleased]
 
-## [2.0.0.beta.11]
-##### Changed
-Support for Bootstrap 4.0.0-alpha.4. [#167](https://github.com/shakacode/bootstrap-loader/pull/167/files) by [rmobis](https://github.com/rmobis).
-
-## [2.0.0.beta.10]
+## [2.0.0.beta]
 Includes all bug fixes for v1
-
-## [2.0.0.beta.2]
-Changes from v1.1.1 to 2.0.0.beta.2
 
 ## [1.1.6] - 2016-09-08
 ##### Fixed
@@ -58,10 +51,8 @@ Changes from v1.1.1 to 2.0.0.beta.2
 
 ## [1.0.8]
 
-[Unreleased]: https://github.com/shakacode/bootstrap-loader/compare/2.0.0-beta.11...master
-[2.0.0.beta.11]: https://github.com/shakacode/bootstrap-loader/compare/2.0.0-beta.10...2.0.0-beta.11
-[2.0.0.beta.10]: https://github.com/shakacode/bootstrap-loader/compare/v2.0.0-beta.2...2.0.0-beta.10
-[2.0.0.beta.2]: https://github.com/shakacode/bootstrap-loader/compare/1.1.0...v2.0.0-beta.2
+[Unreleased]: https://github.com/shakacode/bootstrap-loader/compare/2.0.0-beta.10...master
+[2.0.0.beta]: https://github.com/shakacode/bootstrap-loader/compare/1.1.6...2.0.0-beta.10
 [1.1.6]: https://github.com/shakacode/bootstrap-loader/compare/1.1.5...1.1.6
 [1.1.5]: https://github.com/shakacode/bootstrap-loader/compare/1.1.4...1.1.5
 [1.1.4]: https://github.com/shakacode/bootstrap-loader/compare/1.1.3...1.1.4
